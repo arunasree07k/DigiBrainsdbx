@@ -1,0 +1,9 @@
+CustomerID,Region,CustomerName,CustomerType,CreditLimit
+101,South,Ravi,Premium,5000
+102,South,Priya,Standard,3000
+103,North,Arun,Premium,4500
+104,West,Sneha,Standard,2800
+105,East,Kiran,Premium,6200
+106,South,Anil,Standard,3500
+107,North,Meena,Premium,7000
+108,West,Rahul,Standard,2500
